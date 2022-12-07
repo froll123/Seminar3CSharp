@@ -67,3 +67,5 @@ void Cube (int num)
 }
 int user = Convert.ToInt32(Console.ReadLine()); 
 Cube(user);
+
+
